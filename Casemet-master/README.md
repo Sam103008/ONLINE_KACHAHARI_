@@ -1,8 +1,5 @@
 # CaseMet - Online Legal Assistance Platform (Android App)
 
-🎯 **HackBlitz Immerse 25 Participation**  
-This project was developed and showcased as part of my participation in **GDG HackBlitz Immerse 25** at **MMMUT College**. During the event, I worked on solving real-world legal issues using technology, presenting **CaseMet** as a solution to make legal services more accessible to individuals.
-
 📌 **CaseMet** is an Android app developed using **Flutter** that connects individuals with legal professionals, offering seamless case management, legal consultations, and secure communication.
 
 ### 🚀 **Features**
